@@ -10,15 +10,5 @@
     "elements"
   ],
   "dependencies": {},
-  "license": "MIT",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/query.git"
-  },
-  "component": {
-    "scripts": {
-      "query/index.js": "index.js"
-    }
-  }
+  "license": "MIT"
 }
